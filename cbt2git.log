@@ -1,18 +1,18 @@
-2025-04-15 02:59:09.992877 - Received CBT.V508.FILE500.PDS from FILE500.XMI 
-2025-04-15 02:59:09.994837 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE500.PDS, moved to PDS/$$$#DATE
-2025-04-15 02:59:09.995010 - Found $$NOTE01.txt (text/plain) in CBT.V508.FILE500.PDS, moved to PDS/$$NOTE01
-2025-04-15 02:59:09.995193 - Found $$NOTE02.txt (text/plain) in CBT.V508.FILE500.PDS, moved to PDS/$$NOTE02
-2025-04-15 02:59:09.995360 - Found $$NOTE03.txt (text/plain) in CBT.V508.FILE500.PDS, moved to PDS/$$NOTE03
-2025-04-15 02:59:09.995522 - Found $$NOTE04.txt (text/plain) in CBT.V508.FILE500.PDS, moved to PDS/$$NOTE04
-2025-04-15 02:59:09.995699 - Found $$NOTE05.txt (text/plain) in CBT.V508.FILE500.PDS, moved to PDS/$$NOTE05
-2025-04-15 02:59:09.995859 - Found $PDSLOAD.jcl (text/plain) in CBT.V508.FILE500.PDS, moved to PDS/$PDSLOAD
-2025-04-15 02:59:09.996012 - Found @FILE500.txt (text/plain) in CBT.V508.FILE500.PDS, moved to PDS/@FILE500
-2025-04-15 02:59:10.000664 - Found ASM.txt (text/plain) in CBT.V508.FILE500.PDS, moved to PDS/ASM
-2025-04-15 02:59:10.001023 - Found CMDPROC.txt (text/plain) in CBT.V508.FILE500.PDS, moved to PDS/CMDPROC
-2025-04-15 02:59:10.002009 - Found INSTLIB.txt (text/plain) in CBT.V508.FILE500.PDS, moved to PDS/INSTLIB
-2025-04-15 02:59:10.003296 - Found MAC.txt (text/plain) in CBT.V508.FILE500.PDS, moved to PDS/MAC
-2025-04-15 02:59:10.003940 - Found PARMLIB.txt (text/plain) in CBT.V508.FILE500.PDS, moved to PDS/PARMLIB
-2025-04-15 02:59:10.004298 - Found PDSLOAD.xmi (application/xmit) in CBT.V508.FILE500.PDS, moved to PDS/PDSLOAD.xmi
-2025-04-15 02:59:10.010632 - Received SBGOLOB.LOAD from PDSLOAD.xmi 
-2025-04-15 02:59:10.011423 - Found PDSLOAD.bin (application/octet-stream) in SBGOLOB.LOAD, moved to PDSLOAD/PDSLOAD
-2025-04-15 02:59:10.011529 - Found alias PDSLOADW to PDSLOAD in SBGOLOB.LOAD, moved to PDS/PDSLOADW
+2025-04-15 21:48:42.443290 - Received CBT.V508.FILE500.PDS from FILE500.XMI 
+2025-04-15 21:48:42.444866 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE500.PDS, moved to PDS/$$$#DATE
+2025-04-15 21:48:42.445065 - Found $$NOTE01.txt (text/plain) in CBT.V508.FILE500.PDS, moved to PDS/$$NOTE01
+2025-04-15 21:48:42.445413 - Found $$NOTE02.txt (text/plain) in CBT.V508.FILE500.PDS, moved to PDS/$$NOTE02
+2025-04-15 21:48:42.445753 - Found $$NOTE03.txt (text/plain) in CBT.V508.FILE500.PDS, moved to PDS/$$NOTE03
+2025-04-15 21:48:42.445937 - Found $$NOTE04.txt (text/plain) in CBT.V508.FILE500.PDS, moved to PDS/$$NOTE04
+2025-04-15 21:48:42.446244 - Found $$NOTE05.txt (text/plain) in CBT.V508.FILE500.PDS, moved to PDS/$$NOTE05
+2025-04-15 21:48:42.446545 - Found $PDSLOAD.jcl (text/plain) in CBT.V508.FILE500.PDS, moved to PDS/$PDSLOAD
+2025-04-15 21:48:42.446597 - Found @FILE500.txt (text/plain) in CBT.V508.FILE500.PDS, moved to PDS/@FILE500
+2025-04-15 21:48:42.453219 - Found ASM.txt (text/plain) in CBT.V508.FILE500.PDS, moved to PDS/ASM
+2025-04-15 21:48:42.453541 - Found CMDPROC.txt (text/plain) in CBT.V508.FILE500.PDS, moved to PDS/CMDPROC
+2025-04-15 21:48:42.455091 - Found INSTLIB.txt (text/plain) in CBT.V508.FILE500.PDS, moved to PDS/INSTLIB
+2025-04-15 21:48:42.456659 - Found MAC.txt (text/plain) in CBT.V508.FILE500.PDS, moved to PDS/MAC
+2025-04-15 21:48:42.457325 - Found PARMLIB.txt (text/plain) in CBT.V508.FILE500.PDS, moved to PDS/PARMLIB
+2025-04-15 21:48:42.457678 - Found PDSLOAD.xmi (application/xmit) in CBT.V508.FILE500.PDS, moved to PDS/PDSLOAD.xmi
+2025-04-15 21:48:42.464137 - Received SBGOLOB.LOAD from PDSLOAD.xmi 
+2025-04-15 21:48:42.464894 - Found PDSLOAD.bin (application/octet-stream) in SBGOLOB.LOAD, moved to PDSLOAD/PDSLOAD
+2025-04-15 21:48:42.464985 - Found alias PDSLOADW to PDSLOAD in SBGOLOB.LOAD, moved to PDS/PDSLOADW
